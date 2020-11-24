@@ -1,2 +1,2 @@
 # cambyze-properties
-Repository to store to centralize application properties
+Repository to centralize application properties
